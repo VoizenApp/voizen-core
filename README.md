@@ -10,8 +10,6 @@
 
 ---
 
-# Voizen — Decentralized Voice Network on Solana
-
 Voizen is a next-generation Web3 communication platform that brings privacy, autonomy, and digital identity to voice communication.  
 Each user owns an NFT-based digital SIM that unlocks private global calls, encrypted VoIP, and real-time AI voice masking — all without accounts, apps, or KYC.
 
