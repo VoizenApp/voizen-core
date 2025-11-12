@@ -137,3 +137,24 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# --- Voizen extras (universal) ---
+# Rust / Anchor
+target/
+Cargo.lock
+
+# Python (AI voice tooling)
+pycache/
+*.py[cod]
+.venv/
+env/
+*.env
+
+# IDE / Editors
+.vscode/
+.idea/
+*.iml
+
+# Misc
+.DS_Store
+Thumbs.db
