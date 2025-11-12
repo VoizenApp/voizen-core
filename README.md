@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="banner.png" alt="Voizen Banner" width="100%" />
+</p>
+
+<h1 align="center">Voizen — Decentralized Voice Network on Solana</h1>
+
+<p align="center">
+  <img src="logo.png" alt="Voizen Logo" width="120" />
+</p>
+
+---
+
 # Voizen — Decentralized Voice Network on Solana
 
 Voizen is a next-generation Web3 communication platform that brings privacy, autonomy, and digital identity to voice communication.  
